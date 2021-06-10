@@ -1,0 +1,15 @@
+h1{
+    color: blue;
+    background-color: darkorange;
+}
+table{
+    border-collapse: collapse;
+    background-color: cadetblue;
+    color:darkmagenta;
+}
+th{background-color: grey;
+    font-weight: 800;
+    font-size: larger;
+}
+td{font-weight: 600;
+}
